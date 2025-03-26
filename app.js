@@ -39,8 +39,8 @@ app.get("/bacheca", (req, res) => {
             immagine: "img/pasta_barbabietola.jpeg",
             tags: ["pasta","barbabietola"],
         }, {
-            titolo: "dolceUno",
-            contenuto: "ciambellone",
+            titolo: "dolceTre",
+            contenuto: "tortaPaesena",
             immagine: "img/torta_paesana.jpeg",
             tags: ["torta","zucchero","uova"],
         },
